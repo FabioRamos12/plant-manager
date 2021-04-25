@@ -7,12 +7,15 @@ import {
     View,
     KeyboardAvoidingView,
     TouchableWithoutFeedback,
-    Platform
+    Platform,
+    Keyboard
 } from 'react-native'
 import { useNavigation } from '@react-navigation/core'
-import { Button } from '../components/Button'
+
 import colors from '../styles/colors'
 import fonts from '../styles/fonts'
+
+import { Button } from '../components/Button'
 
 export function UserIdentification() {
     const [isFocused, setIsFocused] = useState(false)
@@ -30,7 +33,7 @@ export function UserIdentification() {
         setIsFocused(true)
     }
 
-    function HandleInputChange(value: string) {
+    function handleInputChange(value: string) {
         setIsFocused(!!value)
         setName(value)
     }
@@ -45,7 +48,7 @@ export function UserIdentification() {
                 style={styles.container}
                 behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
             >
-                <TouchableWithoutFeedback>
+                <TouchableWithoutFeedback onPress={Keyboard.dismiss}>
                     <View style={styles.content}>
                         <View style={styles.form}>
                             <View style={styles.header}>
@@ -68,7 +71,7 @@ export function UserIdentification() {
                                 placeholder='Digite um nome'
                                 onBlur={handleInputBlur}
                                 onFocus={handleInputFocus}
-                                onChangeText={HandleInputChange}
+                                onChangeText={handleInputChange}
                             />
 
                             <View style={styles.footer}>
