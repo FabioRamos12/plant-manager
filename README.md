@@ -61,14 +61,11 @@ $ git clone https://github.com/FabioRamos12/plant-manager.git && cd plant-manage
 **Follow the steps below**
 
 ```bash
-# Install the dependencies
-$ yarn
-
 # Run the backend fake server
-$ yarn server
+$ json-server src/services/server.json --host "YOUR IP" --port 3333
 
 # Run the web server
-$ yarn dev
+$ expo start
 ```
 
 The app will be available for access on your browser at `http://localhost:3000`
@@ -79,10 +76,10 @@ The app will be available for access on your browser at `http://localhost:3000`
 
 This project was developed using the following technologies:
 
+- [React](https://reactjs.org)
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Lottie React Native](https://docs.expo.io/versions/latest/sdk/lottie/)
 
 ---
 
