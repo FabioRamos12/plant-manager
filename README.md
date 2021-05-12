@@ -1,8 +1,8 @@
 <h1 align="center">    
     <img align="center" alt="Icon" title="#Icon" src=".github/icon.png" width="200px" height="200px"/>
-    <h1 align="center">    
+    <div align="center">    
       <span align="center">Plant Manager</span>
-    </h1>
+    </div>
 </h1>
 
 
