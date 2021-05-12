@@ -1,6 +1,6 @@
 <h1 align="center">
     <img alt="Icon" title="#Icon" src=".github/icon.png"/>
-    <span align="center">Podcastr</span>
+    <span align="center">Plant Manager</span>
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## :headphones: About
 
-Podcastr is a platform for podcast broadcasting
+Application developed for irrigation control and plant monitoring.
 
 This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)**.
 
@@ -24,24 +24,21 @@ This is a project developed during the **[Next Level Week](https://nextlevelweek
 
 You can view the project layout through the links below:
 
-- [Layout Web](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761) 
+- [Layout Web](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager) 
 
 Remembering that you need to have a [Figma](http://figma.com/) account to access it.
-
-### :globe_with_meridians: Web
-
-<p align="center">
-  <img alt="Podcastr" title="#Podcastr" src=".github/web-layout-1.png" width="400px">
-
-  <img alt="Podcastr" title="#Podcastr" src=".github/web-layout-2.png" width="400px">
-</p>
 
 ### :iphone: Web Mobile
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Podcastr" title="#Podcastr" src=".github/web-mobile-layout-1.png" width="400px" height="410px">
-
-  <img alt="Podcastr" title="#Podcastr" src=".github/web-mobile-layout-2.png" width="400px" height="410px">
+  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-1.png" width="400px" height="410px">
+  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-2.png" width="400px" height="410px">
+  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-3.png" width="400px" height="410px">
+  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-4.png" width="400px" height="410px">
+  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-5.png" width="400px" height="410px">
+  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-6.png" width="400px" height="410px">
+  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-7.png" width="400px" height="410px">
+  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-8.png" width="400px" height="410px">
 </p>
 
 ---
@@ -55,7 +52,7 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/FabioRamos12/podcastr.git && cd podcastr
+$ git clone https://github.com/FabioRamos12/plant-manager.git && cd plant-manager
 ```
 
 **Follow the steps below**
@@ -79,9 +76,10 @@ The app will be available for access on your browser at `http://localhost:3000`
 
 This project was developed using the following technologies:
 
-- [Next.js](https://nextjs.org/)
-- [React](https://reactjs.org)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Lottie React Native](https://docs.expo.io/versions/latest/sdk/lottie/)
 
 ---
 
