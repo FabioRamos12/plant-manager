@@ -1,5 +1,5 @@
-<h1 align="center">
-    <img align="center" alt="Icon" title="#Icon" src=".github/icon.png" width="200px" height="200px"/>
+<img align="center" alt="Icon" title="#Icon" src=".github/icon.png" width="200px" height="200px"/>
+<h1 align="center">    
     <span align="center">Plant Manager</span>
 </h1>
 
@@ -31,14 +31,14 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 ### :iphone: Web Mobile
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-1.jpg" width="200px" height="200px">
-  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-2.jpg" width="200px" height="200px">
-  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-3.jpg" width="200px" height="200px">
-  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-4.jpg" width="200px" height="200px">
-  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-5.jpg" width="200px" height="200px">
-  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-6.jpg" width="200px" height="200px">
-  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-7.jpg" width="200px" height="200px">
-  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-8.jpg" width="200px" height="200px">
+  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-1.jpg" width="50px" height="100px">
+  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-2.jpg" width="50px" height="100px">
+  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-3.jpg" width="50px" height="100px">
+  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-4.jpg" width="50px" height="100px">
+  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-5.jpg" width="50px" height="100px">
+  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-6.jpg" width="50px" height="100px">
+  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-7.jpg" width="50px" height="100px">
+  <img alt="Plant-manager" title="#Plant-manager" src=".github/web-mobile-layout-8.jpg" width="50px" height="100px">
 </p>
 
 ---
